@@ -1,0 +1,24 @@
+<svg width="148" height="204.99999999999997" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <title>default</title>
+        <rect x="-1" y="-1" width="150" height="207" id="canvas_background" fill="#000"/>
+    </g>
+
+    <g>
+        <title>Layer 1</title>
+        <rect fill="none" stroke-width="1.5" x="75.75033" y="0.75" width="71.49967" height="38.34017" id="svg_2" rx="5" stroke="#ffffff"/>
+        <rect fill="none" stroke-width="1.5" x="0.75" y="0.75" width="71.49967" height="38.34017" id="svg_3" rx="5" stroke="#ffffff"/>
+        <rect fill="none" stroke-width="1.5" x="75.75033" y="165.90982" width="71.49967" height="38.34017" id="svg_1" rx="5" stroke="#ffffff"/>
+        <rect fill="none" stroke-width="1.5" x="0.75" y="165.90982" width="71.49967" height="38.34017" id="svg_8" rx="5" stroke="#ffffff"/>
+        <text fill="#ffff00" x="21.765321" y="14.16852" id="svg_9" font-size="9" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">STEPS</text>
+  <text fill="#ffff00" x="100.58899" y="14.15804" id="svg_10" font-size="9" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">DIST</text>
+  <text fill="#ffff00" x="24.843268" y="177.49311" id="svg_11" font-size="9" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">DATE</text>
+  <text fill="#ffff00" x="99.67416" y="177.49833" id="svg_12" font-size="9" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve">BATT</text>
+        <!-- Dynamic elements -->
+        <text fill="#9ACEE6" x="18.918201" y="30.66825" id="svg_13" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" data-font="XTINY" data-template="{steps:%5d}" class="watch" opacity="100"></text>
+  <text fill="#9ACEE6" x="87.72857" y="30.66822" id="svg_14" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" data-font="XTINY" data-template="{distance:%.2f} km" class="watch" opacity="100"></text>
+  <text fill="#9ACEE6" x="3.982331" y="193.49544" id="svg_15" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" data-font="XTINY" data-template="{day:%02d}/{month:%02d}/{year}" class="watch" opacity="100"></text>
+  <text fill="#9ACEE6" x="97.82667" y="193.48506" id="svg_16" font-size="13" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" data-font="XTINY" data-template="{battery:%2d}%" class="watch" opacity="100"></text>
+  <text fill="#9ACEE6" x="23.95678" y="116.24252" id="svg_17" font-size="40" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" data-font="NUMBER_THAI_HOT" data-template="{hour:%02d}:{min:%02d}" class="watch" opacity="100"></text>
+    </g>
+</svg>
